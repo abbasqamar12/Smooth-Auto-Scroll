@@ -1,0 +1,22 @@
+<resources>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="fastlane_background">#0096a6</color>
+    <color name="search_opaque">#ffaa3f</color>
+    <color name="selected_background">#ffaa3f</color>
+    <color name="default_background">#3d3d3d</color>
+    <color name="default_button_background">#4A4A4A</color>
+    <color name="primary">#00397E</color>
+    <color name="red">#BA0000</color>
+    <color name="pressed_red">#AF4A4A</color>
+    <color name="blue">#00316C</color>
+    <color name="white">#ffffff</color>
+    <color name="golden">#654921</color>
+    <color name="golden_light">#CF933B</color>
+    <color name="gray">#E1878787</color>
+    <color name="pink">#F29FFF</color>
+    <color name="magenta">#8C09C1</color>
+    <color name="gray_dark">#4E4E4E</color>
+    <color name="transparent">#66000000</color>
+    <color name="transparent_item">#00000000</color>
+</resources>
